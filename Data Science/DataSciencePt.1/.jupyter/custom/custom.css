@@ -1,0 +1,10 @@
+.cell .collapsible_headings_toggle .fa {
+    transition: transform 0s;
+}
+
+.container {
+width:100% !important;
+margin-right: auto;
+margin-left: auto;
+}
+
